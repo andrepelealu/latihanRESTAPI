@@ -1,0 +1,28 @@
+{
+  "menu":[
+  {
+  "kategori" : "kat 1",
+  "harga"     : 50000,
+  "nama_menu" : "cheese burger"
+  },
+
+  {
+    "kategori" : "kat 2",
+    "harga"     : 40000,
+    "nama_menu" : "enak 1"
+
+  },
+  {
+    "kategori" : "kat 3",
+    "harga"     : 55000,
+    "nama_menu" : "enak 2"
+
+  },
+  {
+    "kategori" : "kat 4",
+    "harga"     : 52000,
+    "nama_menu" : "enak 3"
+
+  },
+  ]
+}
